@@ -1,7 +1,7 @@
 # Pi-Lon
 An open source series of 3d printed cases and accessories for the raspberry-pi
 
-Desktop Series - V1 - Pi-5 only
+Desktop Series - V1 - Pi-5 pictured, but the file is compatible with Pi-4b and pi-5 
 
 Assembly
 
