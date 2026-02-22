@@ -9,7 +9,7 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Case.step',
+/* name */ 'pi4&5dtopcase.step',
 /* time_stamp */ '2026-02-20T23:09:38-05:00',
 /* author */ (''),
 /* organization */ (''),
@@ -16351,3 +16351,4 @@ SOLID_ANGLE_UNIT()
 #13290=COLOUR_RGB('Steel - Satin',0.627450980392157,0.627450980392157,0.627450980392157);
 ENDSEC;
 END-ISO-10303-21;
+
