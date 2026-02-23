@@ -1,5 +1,5 @@
-# Pi-Lon
-An open source series of 3d printed cases and accessories for the raspberry-pi
+# KlawDeck
+An open source series of 3d printed cases and accessories for the raspberry-pi, for the purpose of running lightweight agentic tools like PicoClaw
 
 Desktop Series - V1 - Pi-5 pictured, but the file is compatible with Pi-4b and pi-5 
 
